@@ -14,15 +14,9 @@ Descrição curta do projeto.
 
 git clone https://github.com/seu-usuario/seu-projeto.git
 
-arduino
-Copy code
-
 2. Acesse o diretório do projeto:
 
 cd seu-projeto
-
-csharp
-Copy code
 
 3. Instale as dependências:
 
